@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\electionsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:electionsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\models\\voter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:models\\voter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\models\\election.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:models\\election.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\dtos\\votedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:dtos\\votedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\controllers\\votingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:controllers\\votingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\controllers\\voterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:controllers\\voterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\controllers\\electionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:controllers\\electionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\controllers\\electionresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:controllers\\electionresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\properties\\publishprofiles\\site17911-webdeploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:properties\\publishprofiles\\site17911-webdeploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\models\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:models\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\dtos\\rigisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:dtos\\rigisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\dtos\\electiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:dtos\\electiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\dtos\\createcandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:dtos\\createcandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\data\\electiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:data\\electiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\dockerignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:dockerignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\dtos\\voterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:dtos\\voterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\dtos\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:dtos\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\VotingSystemEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\migrations\\20241209133534_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:migrations\\20241209133534_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|c:\\users\\dell\\source\\repos\\electionsystem\\migrations\\20241213111850_addvoterphotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD232E5-4EB1-4800-841F-EB1E9F0A1D21}|ElectionSystem.csproj|solutionrelative:migrations\\20241213111850_addvoterphotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T09:43:01.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site17911-WebDeploy.pubxml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Properties\\PublishProfiles\\site17911-WebDeploy.pubxml",
+              "RelativeDocumentMoniker": "Properties\\PublishProfiles\\site17911-WebDeploy.pubxml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Properties\\PublishProfiles\\site17911-WebDeploy.pubxml",
+              "RelativeToolTip": "Properties\\PublishProfiles\\site17911-WebDeploy.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-02-26T09:42:34.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-23T15:42:41.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dockerignore",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\dockerignore",
+              "RelativeDocumentMoniker": "dockerignore",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\dockerignore",
+              "RelativeToolTip": "dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-23T14:59:07.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dockerignore",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\dockerignore",
+              "RelativeDocumentMoniker": "dockerignore",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\dockerignore",
+              "RelativeToolTip": "dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-23T14:58:47.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241213111850_AddVoterPhotos.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Migrations\\20241213111850_AddVoterPhotos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241213111850_AddVoterPhotos.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Migrations\\20241213111850_AddVoterPhotos.cs",
+              "RelativeToolTip": "Migrations\\20241213111850_AddVoterPhotos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:18:50.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VoterDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\VoterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\VoterDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\VoterDto.cs",
+              "RelativeToolTip": "Dtos\\VoterDto.cs",
+              "ViewState": "AQIAAAsAAABQZmZmZmYwwB0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:15:17.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:08:59.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RigisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\RigisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RigisterDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\RigisterDto.cs",
+              "RelativeToolTip": "Dtos\\RigisterDto.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAECUPSIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:04:03.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\ResultDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ResultDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\ResultDto.cs",
+              "RelativeToolTip": "Dtos\\ResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:40:34.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAQAAABAMjMzMzMbwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:39:09.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\VoteDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\VoteDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\VoteDto.cs",
+              "RelativeToolTip": "Dtos\\VoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:36:11.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ElectionDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\ElectionDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ElectionDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\ElectionDto.cs",
+              "RelativeToolTip": "Dtos\\ElectionDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:20:54.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateCandidateDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\CreateCandidateDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CreateCandidateDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Dtos\\CreateCandidateDto.cs",
+              "RelativeToolTip": "Dtos\\CreateCandidateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:50:21.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241209133534_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Migrations\\20241209133534_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241209133534_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Migrations\\20241209133534_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241209133534_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:35:35.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T12:09:41.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:28:30.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElectionSystem.http",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\ElectionSystem.http",
+              "RelativeDocumentMoniker": "ElectionSystem.http",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\ElectionSystem.http",
+              "RelativeToolTip": "ElectionSystem.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-07T15:28:19.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAE8VAAAAkDMzMzMewGAVAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-06T18:56:08.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAACQPU0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:07:10.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:58:02.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ElectionResultController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\ElectionResultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ElectionResultController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\ElectionResultController.cs",
+              "RelativeToolTip": "Controllers\\ElectionResultController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:57:10.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VotingController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\VotingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VotingController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\VotingController.cs",
+              "RelativeToolTip": "Controllers\\VotingController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:45:42.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CandidatesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "Controllers\\CandidatesController.cs",
+              "ViewState": "AQIAAE4AAAAAW2ZmZmYgwGUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:02:06.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VotersController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\VotersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VotersController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\VotersController.cs",
+              "RelativeToolTip": "Controllers\\VotersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:58:14.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ElectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\ElectionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ElectionsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\ElectionsController.cs",
+              "RelativeToolTip": "Controllers\\ElectionsController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:21:11.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:18:44.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VotingSystemEntities.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\VotingSystemEntities.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\VotingSystemEntities.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\VotingSystemEntities.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\VotingSystemEntities.cs",
+              "ViewState": "AQIAADUAAAAg/v///39JwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:06:52.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:34:54.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T15:15:41.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:11:09.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ElectionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Data\\ElectionDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ElectionDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Data\\ElectionDbContext.cs",
+              "RelativeToolTip": "Data\\ElectionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:08:42.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "Models\\Candidate.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Models\\Candidate.cs",
+              "RelativeToolTip": "Models\\Candidate.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:59:38.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Voter.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Models\\Voter.cs",
+              "RelativeDocumentMoniker": "Models\\Voter.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Models\\Voter.cs",
+              "RelativeToolTip": "Models\\Voter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:57:59.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Province.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Models\\Province.cs",
+              "RelativeDocumentMoniker": "Models\\Province.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Models\\Province.cs",
+              "RelativeToolTip": "Models\\Province.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:51:41.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Election.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Models\\Election.cs",
+              "RelativeDocumentMoniker": "Models\\Election.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\ElectionSystem\\Models\\Election.cs",
+              "RelativeToolTip": "Models\\Election.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:22:46.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
