@@ -31,6 +31,39 @@ namespace ElectionSystem
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            
+builder.Services.AddSerilog( providers =>
+                                 {
+                                     providers.MinimumLevel.Verbose();
+
+                                     providers.Enrich.WithDemystifiedStackTraces()
+                                              .Enrich.WithAssemblyInformationalVersion()
+                                              .Enrich.WithClientIp()
+                                              .Enrich.WithCorrelationId()
+                                              .Enrich.WithSpan()
+                                              .Enrich.WithMemoryUsage()
+                                              .Enrich.WithMachineName()
+                                              .Enrich.WithMemoryUsage()
+                                              .Enrich.WithProcessId()
+                                              .Enrich.WithProcessName()
+                                              .Enrich.FromLogContext()
+                                              .Enrich.WithEnvironmentName()
+                                              .Enrich.WithProcessId()
+                                              .Enrich.WithThreadId()
+                                              .Enrich.WithThreadName();
+
+
+                                     providers.WriteTo.Async( configure => configure.Console(), blockWhenFull: true )
+                                              .WriteTo.Async( configure => configure.Debug(), blockWhenFull: true );
+
+
+                                     providers.WriteTo
+                                              .Async( configure => configure.File( "Logs/log-.log", fileSizeLimitBytes: 1024 * 1024 * 50, shared: true, rollingInterval: RollingInterval.Day ),
+                                                      blockWhenFull: true );
+
+                                 } );
+
+            
             var app = builder.Build();
 
             // 🔥 تفعيل Swagger في كل البيئات
